@@ -1,0 +1,14 @@
+body {
+  padding-top: 20px;
+}
+.style {
+  padding: 20px 15px;
+  text-align: center;
+}
+table, th, td, th {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 10px;
+}
